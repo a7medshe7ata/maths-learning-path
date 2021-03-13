@@ -1,5 +1,4 @@
 # Maths learning path
-This is my maths learning path.
 
 ## The basic
 * [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm) :white_medium_square:  
